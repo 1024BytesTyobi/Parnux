@@ -1,2 +1,1 @@
 # Parnux
-### LuPy3
